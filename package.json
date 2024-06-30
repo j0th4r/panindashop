@@ -14,7 +14,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.19.2",
-    "mongodb": "^6.8.0"
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.4.4"
   },
   "devDependencies": {
     "concurrently": "^8.2.2",
