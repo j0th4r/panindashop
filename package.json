@@ -13,7 +13,8 @@
   "author": "Jowehl Radaza",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0"
   },
   "devDependencies": {
     "concurrently": "^8.2.2",
