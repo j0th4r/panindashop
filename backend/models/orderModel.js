@@ -1,8 +1,4 @@
 import mongoose from "mongoose";
-import User from "./userModel";
-import { del, use } from "express/lib/application";
-import { HostAddress } from "mongodb";
-import { is } from "express/lib/request";
 
 const orderSchema = mongoose.Schema({
   user: {
